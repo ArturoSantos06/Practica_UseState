@@ -89,7 +89,7 @@ export default function Registro() {
   
   return (
     <div className="mx-auto grid max-w-4xl grid-cols-1 gap-6 p-6 lg:grid-cols-2 lg:p-10">
-      <h1 className="lg:col-span-2 text-2xl font-bold text-center text-slate-900 mb-4">
+      <h1 className="lg:col-span-2 text-2xl font-bold text-center text-white mb-4">
         Registro de Pasajeros para Abordaje 
       </h1>
 
